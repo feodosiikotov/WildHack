@@ -20,7 +20,10 @@
  - recomendations.py - Файл с необходимыми функциями
  - top_words.py - Топ слов
  - word2vec.model - Веса для рекомендации
+ - word2vec.model.syn1neg.npy - Веса для рекомендации
+ - word2vec.model.wv.vectors.npy - Веса для рекомендации
  - wildhack_lstm3.pth - Веса для генерации
  ---
 ### Инструкция к запуску
+Получить веса  для моделей после обучения<br>
 Открть файл demo.ipynb и запустить все ячейки
